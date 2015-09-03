@@ -1,0 +1,23 @@
+[
+    {
+        "method" : "console.log('1')",
+        "code" : "CONSOLE.LOG",
+        "lib" : ["q", "request"]
+    },
+    {
+        "method" : "createUser",
+        "code" : "USER.POST",
+        "lib" : ["q", "request"]
+    },
+    {
+        "method" : "getUser",
+        "code" : "USER.GET",
+        "lib" : ["q", "request"]
+    },
+    {
+        "method" : "deleteUser",
+        "code" : "USER.DELETE",
+        "lib" : ["q", "request"]
+    }
+
+]
